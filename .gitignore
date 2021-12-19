@@ -1,4 +1,7 @@
 .idea/
+.vscode/
 vendor/
 .phpunit.result.cache
 testdox.txt
+error_log.txt
+composer.lock
